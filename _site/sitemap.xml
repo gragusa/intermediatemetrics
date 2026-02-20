@@ -1,31 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://gragusa.org/advmetrics/material.html</loc>
-    <lastmod>2025-02-12T15:56:47.644Z</lastmod>
-  </url>
-  <url>
-    <loc>https://gragusa.org/advmetrics/index.html</loc>
-    <lastmod>2025-02-12T15:59:22.104Z</lastmod>
-  </url>
-  <url>
-    <loc>https://gragusa.org/advmetrics/assignments.html</loc>
-    <lastmod>2025-02-12T15:56:47.641Z</lastmod>
-  </url>
-  <url>
-    <loc>https://gragusa.org/advmetrics/indexm.html</loc>
-    <lastmod>2025-02-12T15:56:47.643Z</lastmod>
-  </url>
-  <url>
     <loc>https://gragusa.org/intermediatemetrics/material.html</loc>
-    <lastmod>2025-12-05T12:16:30.230Z</lastmod>
+    <lastmod>2026-02-20T14:32:08.437Z</lastmod>
   </url>
   <url>
     <loc>https://gragusa.org/intermediatemetrics/index.html</loc>
-    <lastmod>2025-12-05T12:25:05.738Z</lastmod>
+    <lastmod>2026-02-20T14:32:08.437Z</lastmod>
   </url>
   <url>
     <loc>https://gragusa.org/intermediatemetrics/assignments.html</loc>
-    <lastmod>2025-02-12T15:56:47.000Z</lastmod>
+    <lastmod>2026-02-20T14:32:08.433Z</lastmod>
+  </url>
+  <url>
+    <loc>https://gragusa.org/intermediatemetrics/indexm.html</loc>
+    <lastmod>2026-02-20T14:32:08.437Z</lastmod>
   </url>
 </urlset>
