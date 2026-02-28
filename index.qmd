@@ -33,6 +33,10 @@ editor:
 
 :::
 
+## Subscribe to the Google Classroom
+
+Please, using your **institutional address**, wubscribe to the google classroom of this course: [https://classroom.google.com/c/MjIwMjMxODA2MDFa?cjc=jrtksjjl](https://classroom.google.com/c/MjIwMjMxODA2MDFa?cjc=jrtksjjl).
+
 ## Course descriptions
 
 [{{< var course.name >}} ({{< var course.number >}})]{.coursename}  is a master's-level course that provides students with a rigorous foundation in both theoretical and applied econometric analysis. It covers tools used in modern empirical research in economics, finance, and other social sciences.
