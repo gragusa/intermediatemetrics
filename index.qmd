@@ -35,11 +35,11 @@ editor:
 
 ## Subscribe to the Google Classroom
 
-Please join this course’s Google Classroom **using only your institutional email address** (ending in **@uniroma1.it**):
+Please join this course’s [Google Classroom](https://classroom.google.com/c/MjIwMjMxODA2MDFa?cjc=jrtksjjl) **using only your institutional email address** (ending in **uniroma1.it**):
 
 [https://classroom.google.com/c/MjIwMjMxODA2MDFa?cjc=jrtksjjl](https://classroom.google.com/c/MjIwMjMxODA2MDFa?cjc=jrtksjjl)
 
-Registrations made with non-institutional email accounts will be **removed (unenrolled)** from the Classroom.
+Registrations made with non-institutional email accounts will be **removed** from the Classroom.
 
 ## Course descriptions
 
